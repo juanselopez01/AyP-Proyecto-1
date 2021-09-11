@@ -1,1 +1,2 @@
-# AyP-Proyecto-1
+# AyP-Proyecto-1 
+Juan Sebastian Lopez Rodriguez
